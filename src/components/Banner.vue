@@ -1,10 +1,10 @@
 <template>
-    <section class="secBanner" style="background-image: url('src/assets/images/bg_banner.jpg');">
+    <section class="secBanner" style="background-image: url('/images/bg_banner.jpg');">
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-7">
                     <div class="info">
-                        <h1 class="vc_banner">Your Roadside Rasasasassasssescue<br> Team</h1>
+                        <h1 class="vc_banner">Your Roadside Rescue<br> Team</h1>
                         <p class="ft-18">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed<br> diam nonumy eirm tempor Invidunt.</p>
                     </div>
                     <div class="bn_form">
