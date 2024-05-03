@@ -17,7 +17,7 @@
                 </div>
                 <div class="col-12 col-md-5">
                     <div class="bn_img">
-                        <img src="../assets/images/vector.png" alt="">
+                        <img src="/images/vector.png" alt="">
                     </div>
                 </div>
             </div>

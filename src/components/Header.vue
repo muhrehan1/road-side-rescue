@@ -4,7 +4,7 @@
         <nav class="navbar navbar-expand-xl p-0">
           <div class="navbar-brand">
             <a href="#">
-              <img src="../assets/images/logo.png" alt="Roadside Rescue">
+              <img src="/images/logo.png" alt="Roadside Rescue">
             </a>
           </div>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-nav" aria-controls="" aria-expanded="false" aria-label="Toggle navigation">

@@ -1,7 +1,7 @@
 <template>
     <section class="secStore">
         <div class="container">
-            <div class="row" style="background-image: url('src/assets/images/storeBg.png');">
+            <div class="row" style="background-image: url('/images/storeBg.png');">
                 <div class="col-12 col-md-8">
                     <div class="txt">
                         <h2>Get the our app for free from online store</h2>
