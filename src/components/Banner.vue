@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-12 col-md-7">
                     <div class="info">
-                        <h1 class="vc_banner">Your Roadside Resadasdasdasscue<br> Team</h1>
+                        <h1 class="vc_banner">Your Roadside Rescue<br> Team</h1>
                         <p class="ft-18">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed<br> diam nonumy eirm tempor Invidunt.</p>
                     </div>
                     <div class="bn_form">
