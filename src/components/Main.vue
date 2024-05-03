@@ -11,7 +11,7 @@ import Store from './Store.vue'
     <Services />
     <Store />
 
-	<section class="secLoct" style="background-image: url('src/assets/images/map.jpg');"></section>
+	<section class="secLoct" style="background-image: url('/images/map.jpg');"></section>
 </template>
 
 <script>

@@ -1,5 +1,5 @@
 <template>
-    <section class="secService" style="background-image: url('src/assets/images/bg_serv.jpg');">
+    <section class="secService" style="background-image: url('/images/bg_serv.jpg');">
         <div class="container">
             <div class="txt text-center">
                 <h2>Our services</h2>
@@ -8,7 +8,7 @@
                 <div class="col-12 col-md-4">
                     <div class="svBox">
                         <div class="thumb">
-                            <img decoding="async" src="../assets/images/sv_1.png" alt="">
+                            <img decoding="async" src="/images/sv_1.png" alt="">
                         </div>
                         <div class="ctn">
                             <h3>Towing</h3>
@@ -20,7 +20,7 @@
                 <div class="col-12 col-md-4">
                     <div class="svBox">
                         <div class="thumb">
-                            <img decoding="async" src="../assets/images/sv_2.png" alt="">
+                            <img decoding="async" src="/images/sv_2.png" alt="">
                         </div>
                         <div class="ctn">
                             <h3>Battery</h3>
@@ -32,7 +32,7 @@
                 <div class="col-12 col-md-4">
                     <div class="svBox">
                         <div class="thumb">
-                            <img decoding="async" src="../assets/images/sv_3.png" alt="">
+                            <img decoding="async" src="/images/sv_3.png" alt="">
                         </div>
                         <div class="ctn">
                             <h3>Flat Tire</h3>
@@ -44,7 +44,7 @@
                 <div class="col-12 col-md-4">
                     <div class="svBox">
                         <div class="thumb">
-                            <img decoding="async" src="../assets/images/sv_4.png" alt="">
+                            <img decoding="async" src="/images/sv_4.png" alt="">
                         </div>
                         <div class="ctn">
                             <h3>Fuel on the spot</h3>
@@ -56,7 +56,7 @@
                 <div class="col-12 col-md-4">
                     <div class="svBox">
                         <div class="thumb">
-                            <img decoding="async" src="../assets/images/sv_5.png" alt="">
+                            <img decoding="async" src="/images/sv_5.png" alt="">
                         </div>
                         <div class="ctn">
                             <h3>Car Unlock</h3>
@@ -68,7 +68,7 @@
                 <div class="col-12 col-md-4">
                     <div class="svBox">
                         <div class="thumb">
-                            <img decoding="async" src="../assets/images/sv_6.png" alt="">
+                            <img decoding="async" src="/images/sv_6.png" alt="">
                         </div>
                         <div class="ctn">
                             <h3>On-Site repairs</h3>

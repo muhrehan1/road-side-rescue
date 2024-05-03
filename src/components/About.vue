@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="col-12 col-md-6">
                     <div class="img">
-                        <img src="../assets/images/abt_img.png" alt="">
+                        <img src="/images/abt_img.png" alt="">
                     </div>
                 </div>
                 <div class="col-12 col-md-6">
